@@ -1,0 +1,12 @@
+.contacts__list {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  margin-left: 30px;
+}
+
+.contacts__zero {
+  font-weight: 800;
+  color: #472f17;
+  font-size: 18px;
+}
